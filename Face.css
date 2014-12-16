@@ -1,0 +1,91 @@
+/*
+Author : SuperBlee
+2014-12-14
+The Face of our website
+*/
+
+.b{
+	/*border: solid;*/
+}
+
+img.sb-headimage{
+	margin: 10px;
+	height: 150px;
+}
+
+/*头部使用的居中*/
+.sb-center{
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%; 	
+}
+
+/*正文使用的“容器”*/
+.sb-container{
+	margin-left: auto;
+	margin-right: auto;
+	width:50%;
+	border-style: none groove none groove;
+	float: left;
+}
+
+.sb-bigcontainer{
+	margin-left: 20%;
+	margin-right: auto;
+	width: 70%;
+}
+
+.sb-right{
+	margin: 0 170px 0 0  ;
+	width: 31%;
+	height: 100%	;
+	float: right;
+	border-style: none groove none groove	;
+}
+
+p.sb-header-title{
+	font-family:Arial,Verdana,Sans-serif;
+	font-size: 250%;
+	margin: 20px 100px 0 0;
+	color: #FF8C00;
+}
+
+p.sb-header-subtitle{
+	font-family: Arial,Verdana,sans-serif;
+	font-size: 120%;
+	margin: 20px 0 0 0;
+	color: #696969;	
+}
+
+p {
+	font-family: Georgia, serif;
+	font-size : 120%;
+}
+
+div.sb-header{
+	float: left;
+}
+
+div.sb-head{
+	background: #ADD8E6;
+	height: 170px;
+}
+
+div.sb-block{
+	border-style: groove none none none; 
+	padding: 10px;	
+}
+
+.sb-form{
+	width: 300px;
+	margin:10px;
+}
+
+.sb-button{
+	margin: 10px;	
+	width:150px;	
+}
+
+.sb-text{
+	margin:0 0 5px 0;
+}
